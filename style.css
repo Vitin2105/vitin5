@@ -1,0 +1,22 @@
+body{background-color: rgb(226, 198, 43);
+}
+h1{text-align: center;
+}
+h1{border-color: blue;
+   border-width: 5px;
+    border-style: double;
+}
+.parte_mosca{text-align: center;
+}
+.parte_mosca{border-color: blue;
+    border-width: 5px;
+     border-style: double;
+    }
+    h2{border-color: blue;
+        border-width: 5px;
+         border-style: double;
+}
+.parte2{border-color: blue;
+    border-width: 5px;
+     border-style: double;
+    }
